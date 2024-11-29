@@ -23,5 +23,5 @@ Este proyecto es una plataforma de cursos online desarrollada utilizando HTML, C
 
 1. **Clonar el Repositorio:**
 
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/BenjaminRRojas/Proyecto_Desarollo_Web.git
 
